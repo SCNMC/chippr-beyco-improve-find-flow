@@ -1,18 +1,17 @@
-# {Naam}
+# Improve find flow
 
 De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
 Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
 
 ## Context
-*Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
+Verbeter Beyco filter- en sorteeropties
 
-Leertaak: {Beschrijving van de leertaak}. Deze leertaak hoort bij {sprint # "titel van de sprint}. Dit is een {niveau van de opdracht} die je {individueel, in team} uitvoert voor {opdrachtgever}
+Leertaak: Voor Beyco moet de find flow verbeterd worden. Deze leertaak hoort bij fix the flow. Dit is een autonome opdracht die je individueel uitvoert voor HP2.
 
 ## Briefing
-*In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
+HP2 is een bedrijf dat bestaat uit young professionals die in samenwerking met studenten toffe projecten realiseert, waaronder het project Beyco: Beyond Coffee. Beyco is een handelsplatform voor koffie over de hele wereld. Op de pagina waar alle koffie’s worden aangeboden kan er gefilterd en gesorteerd worden. Op dit moment zijn de filters en sorteerfunctie niet altijd even gebruiksvriendelijk. De sorteerfunctie bevat bijvoorbeeld wel 18 verschillende opties en er is geen feedback naar de gebruiker wanneer er geen resultaten zijn. 
 
-{Beschrijf de opdrachtgever}
-{Beschrijf de opdracht}
+Beschrijving: Ontwikkel een prototype waarin je de verbeteringen laat zien met betrekking tot de gebruiksvriendelijkheid van de sorteer en filterfuncties op Beyco.
 
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
