@@ -8,7 +8,7 @@ Leertaak: Beyco Improve Find Flow. Deze leertaak hoort bij sprint Fix the Flow. 
 ## Briefing
 Chippr is een bedrijf dat bestaat uit young professionals die in samenwerking met studenten toffe projecten realiseert, waaronder het project Beyco: Beyond Coffee. 
 
-Beyco is een handelsplatform voor koffie over de hele wereld. Er zijn erg veel verschillende koffiesoorten, die goed vindbaar zouden moeten zijn.
+Beyco is een handelsplatform voor koffie over de hele wereld. Er worden erg veel verschillende koffiesoorten in het platform aangeboden, die goed vindbaar zouden moeten zijn.
 
 Verbeter voor de Beyco website de sorteer- en filterfunctie op de overzichtspagina van de koffiesoorten.
 
