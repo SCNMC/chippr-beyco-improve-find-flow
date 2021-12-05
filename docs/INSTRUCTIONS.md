@@ -6,9 +6,11 @@ Voor Beyco wordt het sorteer- en filtersysteem van de overzichtspagina van versc
 Leertaak: Beyco Improve Find Flow. Deze leertaak hoort bij sprint Fix the Flow. Dit is een autonome opdracht die je individueel uitvoert voor Chippr.
 
 ## Briefing
-Chippr is een bedrijf dat bestaat uit young professionals die in samenwerking met studenten toffe projecten realiseert, waaronder het project Beyco: Beyond Coffee. Beyco is een handelsplatform voor koffie over de hele wereld. Een belangrijk onderdeel van internationale handel is de communicatie, maar dat gaat nog niet zo soepel. Beyco wil graag middels nieuwsberichten kunnen vertellen waar zij zoal mee bezig zijn. Momenteel kun je ergens onderin de footer de laatste nieuwsbrief downloaden, maar die wordt nauwelijks gebruikt.
+Chippr is een bedrijf dat bestaat uit young professionals die in samenwerking met studenten toffe projecten realiseert, waaronder het project Beyco: Beyond Coffee. 
 
-Verbeter voor de Beyco website de sorteer- en filterfunctie op de overzichtspagina van de koffiesoorten.;
+Beyco is een handelsplatform voor koffie over de hele wereld. Er zijn erg veel verschillende koffiesoorten, die goed vindbaar zouden moeten zijn.
+
+Verbeter voor de Beyco website de sorteer- en filterfunctie op de overzichtspagina van de koffiesoorten.
 
 ## Doel van deze opdracht
 
