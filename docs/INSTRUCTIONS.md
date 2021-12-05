@@ -1,6 +1,6 @@
 # Beyco improve find flow
 
-verbeter het sorteer- en filtersysteem van de Beyco overzichtspagina met verschillende koffiesoorten.
+Verbeter het sorteer- en filtersysteem van de Beyco overzichtspagina met verschillende koffiesoorten.
 
 ## Context
 
