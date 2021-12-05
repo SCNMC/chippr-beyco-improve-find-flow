@@ -1,7 +1,8 @@
 # Beyco improve find flow
 
+verbeter het sorteer- en filtersysteem van de Beyco overzichtspagina met verschillende koffiesoorten.
+
 ## Context
-Voor Beyco wordt het sorteer- en filtersysteem van de overzichtspagina van verschillende koffiesoorten verbeterd.
 
 Leertaak: Beyco Improve Find Flow. Deze leertaak hoort bij sprint Fix the Flow. Dit is een autonome opdracht die je individueel uitvoert voor Chippr.
 
