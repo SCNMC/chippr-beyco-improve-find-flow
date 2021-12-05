@@ -4,7 +4,7 @@ verbeter het sorteer- en filtersysteem van de Beyco overzichtspagina met verschi
 
 ## Context
 
-Leertaak: Beyco Improve Find Flow. Deze leertaak hoort bij sprint Fix the Flow. Dit is een autonome opdracht die je individueel uitvoert voor Chippr.
+Deze leertaak hoort bij sprint Fix the Flow. Dit is een autonome opdracht die je individueel uitvoert voor Chippr.
 
 ## Briefing
 Chippr is een bedrijf dat bestaat uit young professionals die in samenwerking met studenten toffe projecten realiseert, waaronder het project Beyco: Beyond Coffee. 
