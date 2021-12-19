@@ -42,7 +42,7 @@ a {
 .hamburger {
 
   display: none;
-  margin-left: 19em;
+  
 }
 .bar {
   display: block;
@@ -256,15 +256,6 @@ fieldset {
     cursor: pointer;
   }
 
-.public{
-    background-color: #ebf2f1;
-    width: 100%;
-   
-}
-.public h1{
-    margin-right: 16em;
-    
-}
 
 
 
