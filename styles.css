@@ -17,6 +17,8 @@ a {
 
 .header {
   border-bottom: solid #ebf2f1;
+  background-color: white;
+
 }
 .navbar {
   display: flex;
@@ -24,12 +26,14 @@ a {
   align-items: center;
   padding: 1rem;
   margin-left: 3em;
+  
 }
 .nav-menu {
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin-right: 95em;
+ 
   gap: 3rem;
 }
 .nav-link {
@@ -132,6 +136,7 @@ a {
   padding-top: 60px;
   border-style: solid;
   border-color: #ebf2f1;
+  
 }
 
 .filtrbtn a {
@@ -228,6 +233,65 @@ fieldset {
   overflow: hidden;
 }
 
+/* side menu styling */
+
+.range{
+    display: flex;
+    flex-direction: column;
+    color: #ffff;
+    margin-top: 2em;
+    margin-left: 1em;
+    gap: 1em;
+    width: 10em;
+    
+}
+
+.countries{
+    display: flex;
+    flex-direction: column;
+    color: #ffff;
+    margin-left: 1em;
+    gap: 1em;
+    width: 10em;
+}
+
+
+.port{
+    display: flex;
+    flex-direction: column;
+    color: #ffff;
+    margin-top: 2em;
+    margin-left: 1em;
+    gap: 1em;
+    width: 10em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*media*/
 @media only screen and (max-width: 768px) {
   .nav-menu {
@@ -255,14 +319,5 @@ fieldset {
     display: block;
     cursor: pointer;
   }
-
-
-
-
-
-
-
-
-
 
 }
