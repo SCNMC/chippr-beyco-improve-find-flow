@@ -9,7 +9,5 @@ function openNav() {
   }
 
 
-  
-
 
 

@@ -18,7 +18,6 @@ a {
 .header {
   border-bottom: solid #ebf2f1;
   background-color: white;
-
 }
 .navbar {
   display: flex;
@@ -26,14 +25,13 @@ a {
   align-items: center;
   padding: 1rem;
   margin-left: 3em;
-  
 }
 .nav-menu {
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin-right: 95em;
- 
+
   gap: 3rem;
 }
 .nav-link {
@@ -44,9 +42,7 @@ a {
 /* Hamburger styles*/
 
 .hamburger {
-
   display: none;
-  
 }
 .bar {
   display: block;
@@ -118,7 +114,7 @@ a {
 .filter-button {
   display: flex;
   justify-content: center;
- 
+
   margin-top: -43.3em;
 }
 /* filter options side menu*/
@@ -136,7 +132,6 @@ a {
   padding-top: 60px;
   border-style: solid;
   border-color: #ebf2f1;
-  
 }
 
 .filtrbtn a {
@@ -193,38 +188,102 @@ nav button {
   width: 6em;
   height: 3em;
   margin-top: -55em;
-  
 }
 /* Robusta */
 
 .robusta div {
   border: none;
-  background-color: #ebf2f1;
-  height: 25em;
-  width: 16em;
+  background-color: #ffff;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  height: 30em;
+  width: 18em;
   margin-top: 3em;
   margin-left: 1em;
   gap: 3em;
 }
+.robusta h2 {
+  display: flex;
+  justify-content: center;
+  padding: 1em;
+}
+
+.robusta1 img {
+  width: 3em;
+  margin-left: 7.5em;
+  margin-top: 1em;
+}
+
 .robusta p {
   display: flex;
   justify-content: center;
+  align-items: center;
+  margin-top: 2em;
+  font-weight: bold;
 }
 
+.robusta button {
+  width: 7em;
+  height: 3em;
+  margin-top: 3em;
+  margin-left: 7.5em;
+}
+
+.robusta2 img {
+  width: 3em;
+  margin-left: 7.5em;
+  margin-top: 1em;
+}
+
+.robusta3 img{
+    width: 3em;
+    margin-left: 7.5em;
+    margin-top: 1em;
+}
 /* arabica */
 
 .arabica div {
   border: none;
-  background-color: #ebf2f1;
-  height: 25em;
-  width: 16em;
+  background-color: #fff;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  height: 30em;
+  width: 18em;
   margin-top: 3em;
   margin-left: 1em;
 }
+
 .arabica p {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-top: 2em;
+  font-weight: bold;
+  /* padding: 1em; */
+}
+.arabica h2 {
+  display: flex;
+  justify-content: center;
+  padding: 1em;
+}
+.arabica1 img {
+  margin-left: 7.5em;
+  margin-top: 1em;
+  width: 3em;
+}
+.arabica button {
+  width: 7em;
+  height: 3em;
+  margin-top: 3em;
+  margin-left: 7.5em;
+}
+.arabica2 img {
+  width: 4em;
+  margin-left: 7em;
+  margin-top: 1em;
+}
+.arabica3 img {
+  width: 4em;
+  margin-left: 7em;
+  margin-top: 1em;
 }
 fieldset {
   border: none;
@@ -235,62 +294,92 @@ fieldset {
 
 /* side menu styling */
 
-.range{
-    display: flex;
-    flex-direction: column;
-    color: #ffff;
-    margin-top: 2em;
-    margin-left: 1em;
-    gap: 1em;
-    width: 10em;
-    
+.range {
+  display: flex;
+  flex-direction: column;
+  color: #ffff;
+  margin-top: 2em;
+  margin-left: 1em;
+  gap: 1em;
+  width: 10em;
+}
+.solid {
+  border-bottom: solid;
+  width: 13em;
+}
+.countries {
+  display: flex;
+  flex-direction: column;
+  color: #ffff;
+  margin-left: 1em;
+  gap: 1em;
+  width: 10em;
 }
 
-.countries{
-    display: flex;
-    flex-direction: column;
-    color: #ffff;
-    margin-left: 1em;
-    gap: 1em;
-    width: 10em;
+.port {
+  display: flex;
+  flex-direction: column;
+  color: #ffff;
+  margin-top: 2em;
+  margin-left: 1em;
+  gap: 1em;
+  width: 10em;
 }
 
-
-.port{
-    display: flex;
-    flex-direction: column;
-    color: #ffff;
-    margin-top: 2em;
-    margin-left: 1em;
-    gap: 1em;
-    width: 10em;
+.process {
+  margin-top: 5.5em;
+  margin-left: 8em;
+  color: #ffff;
+}
+.grades {
+  margin-top: 2em;
+  margin-left: 1em;
+  color: #ffff;
+}
+.process h2 {
+  color: #ffff;
+  margin-bottom: 20px;
+}
+.process li {
+  margin-bottom: 6px;
 }
 
+.grades h2 {
+  color: #ffff;
+  margin-bottom: 20px;
+}
+.grades li {
+  margin-bottom: 6px;
+}
 
+.grades ul {
+  margin-bottom: -23em;
+}
 
+.certifications {
+  display: flex;
+  flex-direction: column;
+  margin-top: 9em;
+  margin-left: 1em;
+  color: #ffff;
+}
+.certifications h2 {
+  color: #ffff;
+  margin-bottom: 20px;
+}
+.certifications li {
+  margin-bottom: 6px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.cupping {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2em;
+  margin-left: 1em;
+  gap: 1em;
+  width: 10em;
+  color: #ffff;
+}
 
 /*media*/
 @media only screen and (max-width: 768px) {
@@ -319,5 +408,12 @@ fieldset {
     display: block;
     cursor: pointer;
   }
+}
 
+@media only screen and (min-width: 768px){
+    .formbuttons {
+     display: flex;
+     flex-direction: row;
+     gap: 3em;
+      }
 }
