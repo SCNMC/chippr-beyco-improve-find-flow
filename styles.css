@@ -307,23 +307,37 @@ fieldset {
   border-bottom: solid;
   width: 13em;
 }
-.countries {
+.countries{
   display: flex;
   flex-direction: column;
   color: #ffff;
-  margin-left: 1em;
-  gap: 1em;
-  width: 10em;
+  margin-left:1rem;
+  width: 6em;
+  font-size: 28px;
+  font-weight: bold;
+  
 }
-
+.countries_a{
+    margin-bottom: 1rem;
+}
+.countries_select{
+    width: 12em;
+}
 .port {
   display: flex;
   flex-direction: column;
   color: #ffff;
-  margin-top: 2em;
-  margin-left: 1em;
-  gap: 1em;
-  width: 10em;
+  margin-left: 1rem;
+  width: 7em;
+  font-size: 28px;
+  font-weight: bold;
+  margin-top: 1em;
+}
+.port_export{
+    margin-bottom: 1rem;
+}
+.ports{
+    width: 12em;
 }
 
 .process {
