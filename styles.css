@@ -410,10 +410,16 @@ fieldset {
   }
 }
 
-@media only screen and (min-width: 768px){
+/* @media only screen and (min-width: 768px){
     .formbuttons {
      display: flex;
      flex-direction: row;
      gap: 3em;
       }
-}
+
+      .robusta2 button{
+          margin-top: 66px;
+
+      }
+      
+} */
