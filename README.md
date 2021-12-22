@@ -12,9 +12,22 @@ Een duidelijk sorteer/filter syseem bouwen
 
 ## Kenmerken
 
+### Sketch tools:
+- Figma
+- Pen & papier
+
+### Technieken/ methodes
+- HTML
+-  CSS
+-  JS
+-  Cart sorting
+-  Dev lifecycle
+
 ## Installatie
 
 ## Gebruik
+
+Gebruik de navigatie syteem door op de gewenste buttons te klikken. Wilt u op alle koffies filtern klik dan op "show all". Wilt u op een specifieke soort filteren klik dan op de opties "Arabica" of "Rpbusta". Extra filter opties vind u bij de button "filter opties"
 
 ## Bronnen
 
