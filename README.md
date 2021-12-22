@@ -27,7 +27,7 @@ Een duidelijk sorteer/filter syseem bouwen
 
 ## Gebruik
 
-Gebruik de navigatie syteem door op de gewenste buttons te klikken. Wilt u op alle koffies filtern klik dan op "show all". Wilt u op een specifieke soort filteren klik dan op de opties "Arabica" of "Rpbusta". Extra filter opties vind u bij de button "filter opties"
+Gebruik de navigatie syteem door op de gewenste buttons te klikken. Wilt u op alle koffies filteren klik dan op "show all". Wilt u op een specifieke soort filteren klik dan op de opties "Arabica" of "Rpbusta". Extra filter opties vind u bij de button "filter opties"
 
 ## Bronnen
 
