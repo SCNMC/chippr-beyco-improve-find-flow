@@ -24,13 +24,14 @@ a {
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
-  margin-left: 3em;
+  margin-left: 2em;
+  font-weight: bold;
 }
 .nav-menu {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-right: 95em;
+  margin-right:1em;
 
   gap: 3rem;
 }
