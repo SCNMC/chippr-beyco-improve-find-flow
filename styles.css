@@ -145,14 +145,11 @@ a {
   transition: 0.3s;
 }
 
-.filtrbtn .closebtn {
+.filtrbtn button{
   position: absolute;
-  margin-top: 10px;
-  margin-left: 10px;
-  top: 0;
-  right: 20px;
-  font-size: 25px;
-  cursor: pointer;
+margin-left: 12em;
+margin-top: -4em;
+border: none;
 }
 
 .hide {
