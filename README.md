@@ -1,14 +1,15 @@
 
 # ☕ BEYCO-improve-find- flow ☕
 
-## 📗 Beschrijving
+## 📗 Beschrijving 
 Een duidelijk sorteer/filter syseem bouwen
 
-<img width="499" alt="Schermafbeelding 2021-12-23 om 00 30 07" src="https://user-images.githubusercontent.com/90189750/147166513-d34c1071-d5d5-4c89-b5a8-d4c8e248cdc9.png"> De mobile versie van de website
+<img width="400" alt="Schermafbeelding 2021-12-23 om 00 30 07" src="https://user-images.githubusercontent.com/90189750/147166513-d34c1071-d5d5-4c89-b5a8-d4c8e248cdc9.png"> De mobile versie van de website
 
-<img width="1439" alt="Schermafbeelding 2021-12-23 om 00 31 13" src="https://user-images.githubusercontent.com/90189750/147166550-e312fefd-6027-4d7b-ad2a-d84bd205d851.png"> De desktop versie van de website met filter/sorteer menus en buttons
+<img width="1400" alt="Schermafbeelding 2021-12-23 om 00 31 13" src="https://user-images.githubusercontent.com/90189750/147166550-e312fefd-6027-4d7b-ad2a-d84bd205d851.png"> De desktop versie van de website met filter/sorteer menus en buttons
 
-## Inhoudsopgave
+## Inhoud
+Dit is mijn versie van het verbeteren van het soreet/filter systeem van Beyco. Het huidige systeem van beyco is nog wat onoverzichtelijk. Alle filter/sorteer opties staan onder elkaar en doordat er veel opties zijn is zorgt dit ervoor dat het onnodig veel ruimte in neemt.  
 
 ## Kenmerken
 
