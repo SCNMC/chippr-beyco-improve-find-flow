@@ -26,7 +26,7 @@ Doormiddel van onderzoek doen naar de filter opties ben ik erachter gekomen dat 
 ### Buttons HTML/CSS/JS:
 
 voor de buttons heb ik een ```≤button≥``` element gebruikt. Hieraan heb ik een id gekkopelt om later JS aan toe te voegen.
-De styling van buttons heb ik gedaan in CSS. Ik heb de buttons een background-colour gegeven van ![#3a8070](https://via.placeholder.com/15/3a8070/000000?text=+) `#3a8070` met een ```≤border-radius≥``` van 3.4px. De tekst in de button heeft de kleur wit .Ik heb hiervoor gekozen omdat dit volgens de styleguide van beyco gaat.
+De styling van buttons heb ik gedaan in CSS. Ik heb de buttons een background-colour gegeven van ![#3a8070](https://via.placeholder.com/15/3a8070/000000?text=+) `#3a8070` met een ```≤border-radius≥``` van 3.4px. De tekst in de button heeft de kleur wit . Ik heb hiervoor gekozen omdat dit volgens de styleguide van beyco gaat.
 
 ### Coffee cards filtering:
 Het filtern gaat doormiddel van javascript. Ik heb gebruikt gemaakt van deze methode:
