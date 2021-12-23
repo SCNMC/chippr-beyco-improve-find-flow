@@ -1,7 +1,7 @@
 
 # ☕ BEYCO-improve-find- flow ☕
 
-## 📗 Beschrijving 
+## 📗 Beschrijving
 Een duidelijk sorteer/filter syseem bouwen
 
 <img width="400" alt="Schermafbeelding 2021-12-23 om 00 30 07" src="https://user-images.githubusercontent.com/90189750/147166513-d34c1071-d5d5-4c89-b5a8-d4c8e248cdc9.png"> De mobile versie van de website
@@ -9,7 +9,15 @@ Een duidelijk sorteer/filter syseem bouwen
 <img width="1400" alt="Schermafbeelding 2021-12-23 om 00 31 13" src="https://user-images.githubusercontent.com/90189750/147166550-e312fefd-6027-4d7b-ad2a-d84bd205d851.png"> De desktop versie van de website met filter/sorteer menus en buttons
 
 ## Inhoud
-Dit is mijn versie van het verbeteren van het soreet/filter systeem van Beyco. Het huidige systeem van beyco is nog wat onoverzichtelijk. Alle filter/sorteer opties staan onder elkaar en doordat er veel opties zijn is zorgt dit ervoor dat het onnodig veel ruimte in neemt.  
+
+Het huidige systeem van beyco is op dit moment nog wat onoverzichtelijk. Het systeem heeft veel filter/sorteer opties die veel ruimte in beslag nemen. Ik ben gaan kijken hoe dit op een nette manier gedaan kan worden. Ik heb 4 buttons gemaakt die de kern zijn van het nieuwe systeem. Op de buttons staat het volgende:
+- Show all
+- Arabia
+- Robusta
+- Filter opties
+
+Deze 4 buttons staan weergeven op website. Door te klikken op show all zullen alle beschikbare koffies tevoorschijn komen. Ik heb vervolgens besloten om 2 aparte buttons te maken voor de 2 soorten koffies die beyco to beschikking heeft. Door op "arabica" te klikken zullen alleen deze koffie soorten filterene en ditzelfde geldt voor "robusta". Ik heb hiervoor gekozen omdat er maar 2 koffiesoorten zijn voor consumptie arabica en robustabonen. Dus het filteren op deze 2 bonen vond ik een goeie manier en gebruikers zullen hierdoor direct op hun gewenste koffieboon kunnen filteren. Als laatste heb ik een button gemnaakt 
+
 
 ## Kenmerken
 
