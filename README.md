@@ -46,7 +46,7 @@ De side menu heeft een ```<background-colour>``` van ![#3a8070](https://via.plac
 - Port of Export ```<option>```
 - Quantity ```<input type= "range">```
 - Grades, Certifications en process ```<input type= "checkbox">```
-- Cupping score ```<input type= "range">``
+- Cupping score ```<input type= "range">```
 
 ### ✍️ Sketch tools:
 - Figma
